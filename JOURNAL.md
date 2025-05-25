@@ -1,6 +1,6 @@
 ---
 title: "CustomSwerve"
 author: "Jayson"
-description: "Describe your project in a short sentence!"
-created_at: "2024-03-20"
+description: "My goal is to make a custom swerve drivebase with off the shelf and 3d printed parts for around $150"
+created_at: "2024-05-20"
 ---
