@@ -21,3 +21,8 @@ Today I am working on the model of each swerve module, given the motors I want t
 https://item.taobao.com/item.htm?abbucket=7&id=943556619196&mi_id=ArQdD1mk0Y4TTvBZydjDBpT7ul9n90ME5dFnnHbfZP7F6DHAsQhA89shsEino6iW7YP6Q8kM--DX0XeU-UcXWrqsBgmchfmlAJ4EW1dfgek&ns=1&skuId=5848268177510&utparam=%7B%22aplus_abtest%22:%2208051687b5a4403a5283bc0b785ff686%22%7D&xxc=taobaoSearch
 
 this bearing is 80x100x10 if i remember. I hopefully will be able to 3d print most the parts if I cannot get enough accuracy I will go to a .2 nozzle instead of .4.
+
+I saw an interesting way of making wheels for combat robotics by broken link robotics(I don't remember which video) but he custom makes wheels by having a ridgid core and then a rubber of some sort cast around it. I unfortunately am unable to do the casting but I was thinking it might be interesting to do an abs core and a petg outer part for the wheel and I'll see if that is pretty strong
+
+<img width="390" alt="Screenshot 2025-06-26 at 9 51 09 AM" src="https://github.com/user-attachments/assets/d95dbd5c-069d-4cdf-bc1b-dc28161f4ebb" />
+
