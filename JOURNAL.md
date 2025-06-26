@@ -14,3 +14,10 @@ The cost of each motor should be around $20 to get a cheap enough motor that sti
 https://www.aliexpress.com/item/1005006812605920.html?
 https://www.aliexpress.com/item/1005008145047028.html?
 
+# June 26th: Begining of modeling
+
+Today I am working on the model of each swerve module, given the motors I want to get around 60-80 inches per second and to do that I only need to gear down the motor with a 2:1 ratio so i can do that with two bevel gears one on the wheel and one connecting to it then i will do some shinanigans to get it from the motor to there but otherwise all good. I found a decently large bearing that I will use from some sketchy place called Taobao
+
+https://item.taobao.com/item.htm?abbucket=7&id=943556619196&mi_id=ArQdD1mk0Y4TTvBZydjDBpT7ul9n90ME5dFnnHbfZP7F6DHAsQhA89shsEino6iW7YP6Q8kM--DX0XeU-UcXWrqsBgmchfmlAJ4EW1dfgek&ns=1&skuId=5848268177510&utparam=%7B%22aplus_abtest%22:%2208051687b5a4403a5283bc0b785ff686%22%7D&xxc=taobaoSearch
+
+this bearing is 80x100x10 if i remember. I hopefully will be able to 3d print most the parts if I cannot get enough accuracy I will go to a .2 nozzle instead of .4.
