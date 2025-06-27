@@ -26,3 +26,15 @@ I saw an interesting way of making wheels for combat robotics by broken link rob
 
 <img width="390" alt="Screenshot 2025-06-26 at 9 51 09 AM" src="https://github.com/user-attachments/assets/d95dbd5c-069d-4cdf-bc1b-dc28161f4ebb" />
 
+I spent most of today working on this part of the swerve module done. this has the bevel gears to drive the wheel as well has the starting part of the rotation of the module. I also had to make sure that everything lined up properly and that the bearing meshes, I will most likely add tolerances later but I 100% will forget some but worse things can happen.
+<img width="548" alt="Screenshot 2025-06-27 at 1 59 34 PM" src="https://github.com/user-attachments/assets/a9d0b3b4-65b4-466f-a0ec-8ae6085aeac9" />
+
+# June 27th: continueing the mechanism
+
+right now I am working on the motor mounts and its slowly getting there I need to remember to add washers at some point but for now I am using 5mm hex shafts from rev which need spacers and bearings to get it to 8mm which for 10 is $30
+https://www.revrobotics.com/rev-41-1528-pk20/
+https://www.revrobotics.com/rev-49-1559-pk10/?searchid=0&search_query=8mm+bearing
+https://www.revrobotics.com/5mm-Hex-Shafts/?searchid=4558009&search_query=hex
+
+<img width="791" alt="Screenshot 2025-06-27 at 2 04 41 PM" src="https://github.com/user-attachments/assets/dff407c7-77f3-49de-996c-23b32cc2a9c1" />
+
