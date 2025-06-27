@@ -40,7 +40,8 @@ https://www.revrobotics.com/5mm-Hex-Shafts/?searchid=4558009&search_query=hex
 
 I don't particularly want to cut my hex shafts so I plan to adjust to use the standard sizes
 
-the current full module looks like this
+the current full module looks like this for the belt i am using 2gt or gt2 idk but it is 110 tooth which is 220mm i will get it from ali
+https://www.aliexpress.com/item/1005004588047992.html?
 
 <img width="600" alt="Screenshot 2025-06-27 at 2 09 38 PM" src="https://github.com/user-attachments/assets/faae938a-9eef-4d17-ad46-996d782d09ea" />
 
