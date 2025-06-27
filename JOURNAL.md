@@ -38,3 +38,9 @@ https://www.revrobotics.com/5mm-Hex-Shafts/?searchid=4558009&search_query=hex
 
 <img width="791" alt="Screenshot 2025-06-27 at 2 04 41 PM" src="https://github.com/user-attachments/assets/dff407c7-77f3-49de-996c-23b32cc2a9c1" />
 
+I don't particularly want to cut my hex shafts so I plan to adjust to use the standard sizes
+
+the current full module looks like this
+
+<img width="600" alt="Screenshot 2025-06-27 at 2 09 38 PM" src="https://github.com/user-attachments/assets/faae938a-9eef-4d17-ad46-996d782d09ea" />
+
