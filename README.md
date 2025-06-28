@@ -9,3 +9,6 @@ Full Cad
 
 Single Module
 <img width="600" alt="Screenshot 2025-06-27 at 11 34 32 PM" src="https://github.com/user-attachments/assets/de6df38b-1571-49d6-824a-74390cbee5e9" />
+
+Wiring Diagram
+<img width="994" alt="Screenshot 2025-06-27 at 11 43 30 PM" src="https://github.com/user-attachments/assets/886f39c1-3d6c-4a2d-b89a-99261e4eccb7" />
