@@ -45,3 +45,11 @@ https://www.aliexpress.com/item/1005004588047992.html?
 
 <img width="600" alt="Screenshot 2025-06-27 at 2 09 38 PM" src="https://github.com/user-attachments/assets/faae938a-9eef-4d17-ad46-996d782d09ea" />
 
+
+after way too long and many hours of hitting my head against walls trying to figure out how this work the module is done, its a bit bulky and large for the size of the wheel but I'd say its a good final product
+
+<img width="644" alt="Screenshot 2025-06-27 at 7 49 01 PM" src="https://github.com/user-attachments/assets/ef7043d2-8a6e-41ea-8788-a814671c6c7f" />
+
+I now need to calculate the price of the whole thing for 1 module and see how many I can get. 3d printing filaments which are pla, abs, and petg are on me as I have the filaments already. bearing inserts are $10 bearings themselves are $17. the large bearing is ￥42.8 per peice or around $.30 which is a bit sus but I can only hope it arrives. hex shafts are $11.50. belt is $3. and then the big ones motors and esc is $70. this brings the total for one module up to $111.8 this means I cannot get 4 but I can get 3 for $335.4. and I can add these aluminium extrusions from rev that I have to connect them.
+
+
