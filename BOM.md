@@ -1,7 +1,7 @@
 **Bill of Materials (BOM) – Custom Swerve Module**
 | Item                                | Description                             | Quantity (per module) | Unit Price    | Total Price | Source / Notes                                                       |
 | ----------------------------------- | --------------------------------------- | --------------------- | ------------- | ----------- | -------------------------------------------------------------------- |
-| **BLDC Motor (Surpass Hobby 3650)** | 1650KV, 30A draw                        | 6                     | \$15.00       | \$90.00     | [AliExpress](https://www.aliexpress.com/item/1005006812605920.html?) |
+| **BLDC Motor (Surpass Hobby 3650)** | 1650KV, 30A draw                        | 6                     | \$26.00       | \$156.00     | [AliExpress](https://www.aliexpress.com/item/1005006812605920.html?) |
 | **ESC**                             | Electronic speed controller             | 6                     | \$18.00       | \$108.00     | [AliExpress](https://www.aliexpress.com/item/1005008145047028.html?) |
 | **Large Bearing**                   | 80x100x10mm from Taobao                 | 1                     | \$0.30        | \$0.30      | [Taobao](https://item.taobao.com/item.htm?id=943556619196)           |
 | **REV 5mm Hex Shaft**               | Standard size shaft                     | 1                     | \$11.50       | \$11.50     | [REV Robotics](https://www.revrobotics.com/5mm-Hex-Shafts/)          |
