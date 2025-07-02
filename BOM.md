@@ -16,5 +16,5 @@
 | **Battery**                         | To power the system                     | 1                     | Already owned | —            | —          
 | **Screw Set**                       | has the screws and nuts neccesary       | 1                     | \$10          | \$10         |  [AliExpress](https://www.aliexpress.com/item/1005002049449095.html?)|
 | **.2 mm nozzle**                    | allows for more precise parts to print  | 1                     | \$15          | \$15         |  [BambuLabs](https://ca.store.bambulab.com/products/bambu-hotend-p1-series?id=46093096911088)|
-Total Cost per Module: $116.50
-Total for 3 Modules: $349.40
+Total Cost per Module: $114.50
+Total for 3 Modules: $343.4
