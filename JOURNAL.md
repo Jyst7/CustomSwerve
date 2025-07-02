@@ -57,3 +57,7 @@ I now need to calculate the price of the whole thing for 1 module and see how ma
 <img width="689" alt="Screenshot 2025-06-27 at 8 53 52 PM" src="https://github.com/user-attachments/assets/e389a17f-87a8-4511-a923-94653c718b60" />
 
 that is the final version there is some code that I will have to write and I will connect it to a Pi Pico and a battery I have and then we have a fully custom swerve drive.
+
+#July 1st: Making improvements 4 hours
+
+I made some changes to the module one was a magnetic encoder that I completely forgot to add earlier, I was planning on adding more so that I could do regular position calculation on the large 2gt gear sprocket thing, while having foc on the other motor but at the moment that is not possible from what I can see. I am also making some changes so the structure is more rigid compared to the little support between each module. I also added the screws into the model. The mag encoder is aligned so whenever the magnet is on the sensor it is in the exact position needed to rotate around its centre.
