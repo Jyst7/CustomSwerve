@@ -65,3 +65,5 @@ I made some changes to the module one was a magnetic encoder that I completely f
 <img width="1089" alt="Screenshot 2025-07-02 at 2 16 13 AM" src="https://github.com/user-attachments/assets/595e2a4c-2dcd-4f88-8dc5-9379e5dfd2a0" />
 
 I am now starting the coding section because I am procrastinating on fixing the bom. I don't really know what I am doing too much but I am planning to switch from a pi pico to a esp32 devkit of some sort prob s3 if there is a good deal so i can use bluetooth. I dont really know too much so i spent around 1 or 2 hours watching videos on the idea of how to code swerve drive and i think i am starting to get the hang of it and then I just need to put it into code. Currently deciding between python and c++ i like c++ more but idk how that will work with the esp32.
+
+it is currently 3 am for me but I want to keep this goin so i will. most swerve drives have 4 wheels and mine has 3 i know it wont simplify the code but if I am lucky it shouldn't make it any harder than it already is going to be.
