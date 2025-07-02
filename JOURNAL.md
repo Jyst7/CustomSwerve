@@ -1,4 +1,4 @@
-**Total Time Spent: 15 Hours**
+**Total Time Spent: 20 Hours**
 
 ---
 title: "CustomSwerve"
@@ -58,6 +58,10 @@ I now need to calculate the price of the whole thing for 1 module and see how ma
 
 that is the final version there is some code that I will have to write and I will connect it to a Pi Pico and a battery I have and then we have a fully custom swerve drive.
 
-# July 1st: Making improvements 4 hours
+# July 1st: Making improvements 5 hours
 
-I made some changes to the module one was a magnetic encoder that I completely forgot to add earlier, I was planning on adding more so that I could do regular position calculation on the large 2gt gear sprocket thing, while having foc on the other motor but at the moment that is not possible from what I can see. I am also making some changes so the structure is more rigid compared to the little support between each module. I also added the screws into the model. The mag encoder is aligned so whenever the magnet is on the sensor it is in the exact position needed to rotate around its centre.
+I made some changes to the module one was a magnetic encoder that I completely forgot to add earlier, I was planning on adding more so that I could do regular position calculation on the large 2gt gear sprocket thing, while having foc on the other motor but at the moment that is not possible from what I can see. I am also making some changes so the structure is more rigid compared to the little support between each module. I also added the screws into the model. The mag encoder is aligned so whenever the magnet is on the sensor it is in the exact position needed to rotate around its centre. it doesnt look all too different in the image but there are many small changes here and there that complete it a bit more.
+
+<img width="1089" alt="Screenshot 2025-07-02 at 2 16 13 AM" src="https://github.com/user-attachments/assets/595e2a4c-2dcd-4f88-8dc5-9379e5dfd2a0" />
+
+I am now starting the coding section because I am procrastinating on fixing the bom. I don't really know what I am doing too much but I am planning to switch from a pi pico to a esp32 devkit of some sort prob s3 if there is a good deal so i can use bluetooth. I dont really know too much so i spent around 1 or 2 hours watching videos on the idea of how to code swerve drive and i think i am starting to get the hang of it and then I just need to put it into code. Currently deciding between python and c++ i like c++ more but idk how that will work with the esp32.
